@@ -1,0 +1,213 @@
+*{
+    margin: 0;
+    padding:0;
+}
+.header{
+    border-bottom: 1px solid #DEE1E6;
+}
+header{
+
+width: 90%;
+
+margin-left: 5%;
+
+overflow: hidden;
+
+padding: 20px 0;
+}
+.logo{
+    width: 20%;
+    float: left;
+}
+.logo img{
+
+width: 45%;
+}
+nav{
+
+width: 40%;
+
+float: right;
+}
+
+nav ul{
+
+list-style: none;
+}
+nav ul li{
+
+float: left;
+
+margin-left: 10px;
+
+text-transform: capitalize;
+
+font-size: 20px;
+}
+.content{
+
+width: 60%;
+
+margin-left: 20%;
+
+text-align: center;
+overflow: hidden;
+}
+
+.content h1{
+
+font-size: 50px;
+
+color: #063156;
+
+text-transform: capitalize;
+}
+
+.content h2{
+
+color: #1994FF;
+
+font-size: 50px;
+
+text-transform: capitalize;
+}
+.content p{
+
+}
+.content img{
+
+    
+}
+
+.success{
+
+width: 70%;
+
+/* margin-left: 15%; */
+
+margin: auto;
+
+margin-top: 100px;
+
+margin-bottom: 100px;
+
+overflow: hidden;
+}
+
+.success_left_content{
+
+text-align: right;
+
+width: 48%;
+
+/* float: left; */
+
+float: left;
+}
+.success_left_content h1{
+
+font-size: 50px;
+
+color: red;
+
+text-transform: capitalize;
+}
+
+.success_left_content p{
+
+color: #949295;
+
+font-size: 18px;
+}
+
+.success_right_content{
+
+width: 48%;
+
+float: right;
+}
+
+.success_right_content h1{
+
+font-size: 55px;
+
+text-transform: capitalize;
+
+color: #102a67;
+}
+
+.feature_section{
+
+width: 90%;
+margin: auto;
+overflow: hidden;
+
+
+}
+
+.feature_one{
+    width: 25%;
+    float: left;
+    margin-right: 7.5%;
+    background-color: #FEECEC;
+    text-align: center;
+    padding: 100px 15px;
+}
+
+.feature_two{
+    width: 25%;
+    float: left;
+    
+    background-color: #EAF9F4;
+    text-align: center;
+    padding: 100px 15px;
+}
+
+
+
+.feature_three{
+    width: 25%;
+    float: right;
+    background-color: #FFF8E8;
+    text-align: center;
+    padding: 100px 15px;
+}
+
+
+
+
+.feature_one img , .feature_two img,.feature_three img{
+width: 50%;
+
+}
+
+.feature_one h2,.feature_two h2,.feature_three h2{
+text-align: left;
+
+}
+
+.feature_one p,.feature_two p,.feature_three p{
+text-align: left;
+
+}
+
+footer{
+    background-color: #018AFD;
+    text-align: center;
+    padding: 50px 0;
+    margin-top: 100px;
+
+
+}
+footer p{
+
+}
+
+footer p span{
+color: white;
+font-size: 30px;
+
+/* background-color: white; */
+
+color: white;
+}
